@@ -17,8 +17,8 @@
 6. the print function prints a table structure 
 
 ***-and second the calculation for avg temperature, min temp. ....is done for the State***
-1.group the <List>StationStatistic by State
-2.calcualate per state avg temperature, min temperature, max temperature, avg windSpeed
+1. group the <List>StationStatistic by State
+2. calcualate per state avg temperature, min temperature, max temperature, avg windSpeed
 5. there is an console interation by which column the Station data should be sorted ( 1. By Station/State Name//2. By Average Temperature//3. By Max Temperature//4. By Min Temperature//5. By Average Wind Speed)
 6. the prin function prints a table structure 
 
