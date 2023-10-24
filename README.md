@@ -2,10 +2,13 @@
 
 
 •Data gets read from csv and stored in data class WeatherData
+
 •Data gets read and concatinated from csv for the specific stations which will be analysed
 
 •the filterfunction sets only values with value 60.0, 60.0, 60.0, 0.0 to 0.0, 0.0, 0.0, 0.0  (Values with 60.0, 60.0, 60.0, 14.54 will get handled as a normal value for the calculation)
+
 •there is an console interaction if the user want to analyse a specific time period additionaly in the given range from 03.01.2020 until 01.01.2021
+
 •as default the hole data will be processed 
 
 ***-the calculations for avg temperature, min temperature, max temperature, avg windSpeed is done first for the Stations***
